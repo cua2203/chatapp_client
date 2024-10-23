@@ -25,7 +25,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/ngx-toastr/toastr.css"
             ],
             "scripts": []
           },
@@ -88,11 +89,15 @@
             ],
             "styles": [
               "src/styles.css"
+            
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "530802db-609b-49ce-b64a-f6394180ce5c"
   }
 }
